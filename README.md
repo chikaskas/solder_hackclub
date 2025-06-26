@@ -18,7 +18,7 @@ Schematic:
 ![image](https://github.com/user-attachments/assets/c84f9566-c6ce-461c-9209-54a225af4d5a)
 
 PCB:
-![image](https://github.com/user-attachments/assets/8c63a0e3-5bce-432a-9f0f-1e1b8f7c2068)
+![image](https://github.com/user-attachments/assets/bba453ca-219e-463a-b158-8ad228b482e6)
 
 3D:
 ![image](https://github.com/user-attachments/assets/433f34c6-46ef-4f93-8ea8-8b5b245d2f29)
