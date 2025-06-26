@@ -991,16 +991,10 @@
 		)
 	)
 	(junction
-		(at 93.98 50.8)
+		(at 101.6 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "13cd833b-1cd4-4467-942e-f7591fe4f0d3")
-	)
-	(junction
-		(at 113.03 68.58)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "271da06e-0c4d-4f8f-89cc-bf4964ec0d0b")
+		(uuid "18ee6631-1684-4816-8fdf-c1a8531a955f")
 	)
 	(junction
 		(at 101.6 60.96)
@@ -1009,36 +1003,74 @@
 		(uuid "2d6c34bd-ed47-43a8-aa84-c3d30d3a5e6a")
 	)
 	(junction
-		(at 105.41 60.96)
+		(at 93.98 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "7a702871-7b45-4ee2-8a94-7ebe629c32a4")
+		(uuid "38a08343-c589-44b7-b82f-210a18ed5be6")
 	)
 	(junction
-		(at 109.22 50.8)
+		(at 109.22 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "8da24660-a1d4-43fe-8fb0-554f61cb7d1d")
+		(uuid "420c7620-e9e3-4e95-8a5e-c159ce29570e")
 	)
 	(junction
-		(at 101.6 50.8)
+		(at 109.22 60.96)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "d8f5dd93-7b2d-411f-bae9-194ba33927f1")
+		(uuid "bde77a6c-83eb-43b7-83a9-9bcfa999611b")
+	)
+	(junction
+		(at 116.84 43.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "db713056-7503-4b66-956b-1405b0625b00")
+	)
+	(junction
+		(at 101.6 43.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "eb1e4675-e3dd-435b-bb06-69e0ac0b152e")
+	)
+	(junction
+		(at 93.98 43.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "feb19d2a-c1d3-4cfd-b7b8-ea501224ee3a")
 	)
 	(wire
 		(pts
-			(xy 93.98 50.8) (xy 101.6 50.8)
+			(xy 109.22 68.58) (xy 109.22 71.12)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "172321ff-bf6d-48f0-a758-7f3b87133c14")
+		(uuid "004cc242-5096-4620-85b9-56eab6718c32")
 	)
 	(wire
 		(pts
-			(xy 101.6 60.96) (xy 105.41 60.96)
+			(xy 101.6 71.12) (xy 101.6 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "13e5159d-3882-4d1e-9763-1da50388532a")
+	)
+	(wire
+		(pts
+			(xy 101.6 71.12) (xy 109.22 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1a247d2d-1869-43d4-acfb-052f66b0b9bf")
+	)
+	(wire
+		(pts
+			(xy 101.6 60.96) (xy 109.22 60.96)
 		)
 		(stroke
 			(width 0)
@@ -1048,57 +1080,77 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 68.58) (xy 113.03 71.12)
+			(xy 93.98 71.12) (xy 93.98 73.66)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "7c9238fd-65ad-48de-a11c-f966ba61dc01")
+		(uuid "4996071b-1d4e-4d8e-ad5f-ea45724ebcc8")
 	)
 	(wire
 		(pts
-			(xy 93.98 71.12) (xy 105.41 71.12)
+			(xy 93.98 43.18) (xy 101.6 43.18)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "7e546028-692d-4cfc-b71a-02aa7ffd92df")
+		(uuid "4e88f589-6603-4a76-9902-600e1bd276bf")
 	)
 	(wire
 		(pts
-			(xy 113.03 50.8) (xy 109.22 50.8)
+			(xy 109.22 71.12) (xy 120.65 71.12)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "7fce0e2b-3e25-45be-af40-374b8c44ad64")
+		(uuid "5616d6d0-419a-4222-a0ef-36a5ee566c93")
 	)
 	(wire
 		(pts
-			(xy 105.41 60.96) (xy 109.22 60.96)
+			(xy 109.22 60.96) (xy 116.84 60.96)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "8d01cca2-d560-4825-bb46-e13308bbbe02")
+		(uuid "5d33c71c-5434-4e6d-8ab4-69e76518c3e3")
 	)
 	(wire
 		(pts
-			(xy 93.98 55.88) (xy 93.98 50.8)
+			(xy 86.36 43.18) (xy 93.98 43.18)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a681a6a0-1ce0-41d4-b5ea-bb29d12cc486")
+		(uuid "9390a904-425e-4604-bc6a-c8fa8a956b41")
 	)
 	(wire
 		(pts
-			(xy 86.36 50.8) (xy 86.36 60.96)
+			(xy 93.98 43.18) (xy 93.98 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "99a48671-24c0-4aaf-96c9-4ebab7382729")
+	)
+	(wire
+		(pts
+			(xy 120.65 43.18) (xy 116.84 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a2f31388-a3c6-4e03-852a-7e98ffb3b0f3")
+	)
+	(wire
+		(pts
+			(xy 86.36 43.18) (xy 86.36 60.96)
 		)
 		(stroke
 			(width 0)
@@ -1108,17 +1160,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 68.58) (xy 113.03 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d6412155-9389-435a-bfc1-304ed1ed6bcc")
-	)
-	(wire
-		(pts
-			(xy 113.03 68.58) (xy 113.03 50.8)
+			(xy 120.65 43.18) (xy 120.65 71.12)
 		)
 		(stroke
 			(width 0)
@@ -1126,15 +1168,75 @@
 		)
 		(uuid "dfb287a3-87ce-442f-bbdf-4ef55a9deb5f")
 	)
-	(wire
-		(pts
-			(xy 93.98 50.8) (xy 86.36 50.8)
+	(symbol
+		(lib_id "Device:R")
+		(at 97.79 73.66 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "15717871-981a-4369-ac55-3df3ea0c4084")
+		(property "Reference" "R2"
+			(at 97.79 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
 		)
-		(stroke
-			(width 0)
-			(type default)
+		(property "Value" "R"
+			(at 97.79 69.85 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
 		)
-		(uuid "f009655d-553e-43f6-b154-7447b9642dd2")
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 97.79 75.438 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 97.79 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 97.79 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "eb4bb220-cadb-4498-a37c-c17ea4200f14")
+		)
+		(pin "2"
+			(uuid "5dda07af-3b73-47a8-aa3b-cb6ab11b83ee")
+		)
+		(instances
+			(project "memory"
+				(path "/2a93c12b-c294-4919-a9b8-8628c69392c5"
+					(reference "R2")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Simulation_SPICE:NPN")
@@ -1240,7 +1342,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 109.22 71.12 90)
+		(at 97.79 71.12 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1249,7 +1351,7 @@
 		(fields_autoplaced yes)
 		(uuid "2c6d286b-ed37-4fe7-a6a4-7fb8c7c4d0b7")
 		(property "Reference" "R1"
-			(at 109.22 64.77 90)
+			(at 97.79 64.77 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1258,7 +1360,7 @@
 			)
 		)
 		(property "Value" "R"
-			(at 109.22 67.31 90)
+			(at 97.79 67.31 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1267,7 +1369,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
-			(at 109.22 72.898 90)
+			(at 97.79 72.898 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1276,7 +1378,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 109.22 71.12 0)
+			(at 97.79 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1285,7 +1387,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 109.22 71.12 0)
+			(at 97.79 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1309,17 +1411,17 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:Battery_Cell")
-		(at 106.68 50.8 90)
+		(lib_id "Device:R")
+		(at 116.84 46.99 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "3a3883f8-94d8-4f4a-b026-9933fff0c0c1")
-		(property "Reference" "BT1"
-			(at 104.8385 43.18 90)
+		(uuid "300381b2-794b-4f33-a8f7-a4e48e2ee037")
+		(property "Reference" "R4"
+			(at 110.49 46.99 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1327,8 +1429,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "Battery_Cell"
-			(at 104.8385 45.72 90)
+		(property "Value" "R"
+			(at 113.03 46.99 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1336,8 +1438,8 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Battery:BatteryHolder_Keystone_3034_1x20mm"
-			(at 105.156 50.8 90)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 118.618 46.99 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1346,7 +1448,77 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 105.156 50.8 90)
+			(at 116.84 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 116.84 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c87dd1ce-f8b4-4567-8961-93232c3c9b14")
+		)
+		(pin "2"
+			(uuid "50ef06e8-ac25-46ec-97b3-53f88684dce3")
+		)
+		(instances
+			(project "memory"
+				(path "/2a93c12b-c294-4919-a9b8-8628c69392c5"
+					(reference "R4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:Battery_Cell")
+		(at 106.68 43.18 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3a3883f8-94d8-4f4a-b026-9933fff0c0c1")
+		(property "Reference" "BT1"
+			(at 104.8385 35.56 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "Battery_Cell"
+			(at 104.8385 38.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Battery:BatteryHolder_Keystone_3034_1x20mm"
+			(at 105.156 43.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 105.156 43.18 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1355,7 +1527,7 @@
 			)
 		)
 		(property "Description" "Single-cell battery"
-			(at 106.68 50.8 0)
+			(at 106.68 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1450,8 +1622,78 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:Battery_Cell")
+		(at 114.3 43.18 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "79a822e9-da19-4877-b484-cb457091d20a")
+		(property "Reference" "BT2"
+			(at 112.4585 35.56 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "Battery_Cell"
+			(at 112.4585 38.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Battery:BatteryHolder_Keystone_3034_1x20mm"
+			(at 112.776 43.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 112.776 43.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Single-cell battery"
+			(at 114.3 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b455b251-3a68-4157-b100-42156d9853f7")
+		)
+		(pin "2"
+			(uuid "fa45f820-6dce-4a9d-95b5-5e5a151d9562")
+		)
+		(instances
+			(project "memory"
+				(path "/2a93c12b-c294-4919-a9b8-8628c69392c5"
+					(reference "BT2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
-		(at 105.41 64.77 0)
+		(at 109.22 64.77 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1460,7 +1702,7 @@
 		(fields_autoplaced yes)
 		(uuid "b435cc18-efe0-47c5-b9fa-229d216ff83e")
 		(property "Reference" "C1"
-			(at 109.22 63.4999 0)
+			(at 113.03 63.4999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1470,7 +1712,7 @@
 			)
 		)
 		(property "Value" "C"
-			(at 109.22 66.0399 0)
+			(at 113.03 66.0399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1480,7 +1722,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:C_Disc_D8.0mm_W2.5mm_P5.00mm"
-			(at 106.3752 68.58 0)
+			(at 110.1852 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1489,7 +1731,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 105.41 64.77 0)
+			(at 109.22 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1498,7 +1740,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 105.41 64.77 0)
+			(at 109.22 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1593,7 +1835,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 109.22 55.88 90)
+		(at 116.84 55.88 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1601,7 +1843,7 @@
 		(dnp no)
 		(uuid "d53a99de-79ef-483b-b81b-c4b0a687f85c")
 		(property "Reference" "SW2"
-			(at 119.126 43.942 90)
+			(at 126.746 43.942 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1611,7 +1853,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 122.428 41.402 90)
+			(at 130.048 41.402 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1621,7 +1863,7 @@
 			)
 		)
 		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
-			(at 104.14 55.88 0)
+			(at 111.76 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1630,7 +1872,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 104.14 55.88 0)
+			(at 111.76 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1639,7 +1881,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 109.22 55.88 0)
+			(at 116.84 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1657,6 +1899,76 @@
 			(project "memory"
 				(path "/2a93c12b-c294-4919-a9b8-8628c69392c5"
 					(reference "SW2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 101.6 46.99 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d6e7ebac-8cbd-46c6-8fc6-ffdecf2204d9")
+		(property "Reference" "R3"
+			(at 95.25 46.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "R"
+			(at 97.79 46.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 103.378 46.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 101.6 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 101.6 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "51263e15-8729-4de2-8cc5-db8c95b53898")
+		)
+		(pin "2"
+			(uuid "5d35601f-7a4a-4aa9-ba9c-5788dfed7788")
+		)
+		(instances
+			(project "memory"
+				(path "/2a93c12b-c294-4919-a9b8-8628c69392c5"
+					(reference "R3")
 					(unit 1)
 				)
 			)
