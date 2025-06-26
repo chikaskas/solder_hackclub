@@ -1,26 +1,35 @@
 # solder_hackclub
-Submission for https://solder.hackclub.com
+**Submission** for https://solder.hackclub.com
 
-Bill:
-1x LED
-1x 220ohm resistor
-2x NPN transistor
-1x capacitor
-2x push button
-1x battery cell
+**Description**: My PCB is very simple. There is a button that turns the LED on and a button that turns the LED off. I used a capacitor to store the charge provided by the battery through the push button and used 2 NPN transistors to amplify the current (so the capacitor doesn't discharge quickly).
 
-Pictures:
+**Bill**:
+1x red LED, 
+4x 4.7k resistor, 
+2x NPN transistor, 
+1x capacitor, 
+2x push button, 
+2x battery cell, 
+
+**Pictures**:
 
 Simulation:
-![IMG_3873](https://github.com/user-attachments/assets/21a10dc9-ffe6-4060-9989-7a1e885d5832)
+
+![image](https://github.com/user-attachments/assets/aa7a155f-9cec-4f03-8d51-a05fd51012e8)
 
 Schematic:
-![image](https://github.com/user-attachments/assets/c84f9566-c6ce-461c-9209-54a225af4d5a)
+
+![image](https://github.com/user-attachments/assets/7958ec9f-ca53-420d-a860-946b28af13c5)
 
 PCB:
-![image](https://github.com/user-attachments/assets/8c63a0e3-5bce-432a-9f0f-1e1b8f7c2068)
+
+![image](https://github.com/user-attachments/assets/95070592-a4ae-48f7-994b-b70432314cc1)
 
 3D:
-![image](https://github.com/user-attachments/assets/433f34c6-46ef-4f93-8ea8-8b5b245d2f29)
-![image](https://github.com/user-attachments/assets/eb938191-5643-407d-8cad-fc156f5f4460)
-![image](https://github.com/user-attachments/assets/b4c41f62-6cf8-47d8-a16c-2488dc48a895)
+
+![image](https://github.com/user-attachments/assets/05f996bc-4f49-4778-9aae-6bbe137d7571)
+![image](https://github.com/user-attachments/assets/d4a611ef-5e01-4d68-90d3-73e11252af69)
+![image](https://github.com/user-attachments/assets/e76df7fd-e3dd-412e-8a98-0f94d817a58d)
+
+
+Made by @chikaskas
