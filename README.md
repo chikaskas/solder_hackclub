@@ -28,7 +28,7 @@ PCB:
 3D:
 
 ![image](https://github.com/user-attachments/assets/05f996bc-4f49-4778-9aae-6bbe137d7571)
-![image](https://github.com/user-attachments/assets/d4a611ef-5e01-4d68-90d3-73e11252af69)
+![image](https://github.com/user-attachments/assets/67702ab8-1ce5-43a2-a263-da864177b511)
 ![image](https://github.com/user-attachments/assets/e76df7fd-e3dd-412e-8a98-0f94d817a58d)
 
 
