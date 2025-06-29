@@ -1,0 +1,8 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+10UF,C_Disc_D8.0mm_W2.5mm_P5.00mm,1,C,
+"2N3904_2, 2N3904",TO-92L_HandSolder,2,NPN,
+4.7KΩ,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,1,R,
+"BT1, CR2032",BatteryHolder_Keystone_3034_1x20mm,2,Battery_Cell,
+LED,LED_D5.0mm,1,LED,
+"OFF, ON",SW_PUSH_6mm,2,SW_Push,
+"R_2, R, R\",R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,3,4.7kΩ,
